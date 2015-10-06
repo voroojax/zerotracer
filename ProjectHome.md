@@ -1,0 +1,1 @@
+ZeroTracer is a Dynamic/Static binary taint analysis tool
